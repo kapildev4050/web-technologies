@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,200&display=swap');
+  *{
+    font-family: 'Fira Sans', sans-serif;
+  }
+  #heading{
+    color: aqua;
+    background-color: black;
+    font-size: italic;
+  }
+  .paragraph{
+    background-color: aquamarine;
+    color: red;
+    font-weight: bold;
+    font-size:40px;
+
+  }
+#p2{
+    background-color: aquamarine;
+    color: blue;
+    font-weight: bold;
+    font-size:40px;
+}
